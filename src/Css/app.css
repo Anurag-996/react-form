@@ -47,10 +47,10 @@
         background-color: rgb(41, 41, 207);
         font-size: 1rem;
         font-weight: 500;
+        color: #fff;
     }
     button:hover{
         cursor: pointer;
-        color: #fff;
     }
 
 }
